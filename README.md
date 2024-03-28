@@ -1,5 +1,7 @@
-# notebooks
-Various Jupyter notebooks to illustrate some PyMoDAQ features:
+Notebooks
+=========
+
+This package contains Various Jupyter notebooks to illustrate some PyMoDAQ features:
 
 Plotting Data
 =============
