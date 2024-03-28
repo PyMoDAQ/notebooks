@@ -1,7 +1,7 @@
 # Notebooks
 
 
-This package contains Various Jupyter notebooks to illustrate some PyMoDAQ features:
+This repository contains Various Jupyter notebooks to illustrate some PyMoDAQ features:
 
 # About PyMoDAQ's Data
 
